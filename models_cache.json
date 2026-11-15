@@ -1,0 +1,37 @@
+[
+  {
+    "name": "qwen3:8b",
+    "model": "qwen3:8b",
+    "size": 5225388164,
+    "modified_at": "2026-11-15T16:42:58.5155599+06:00",
+    "family": "qwen3"
+  },
+  {
+    "name": "deepseek-r1:1.5b",
+    "model": "deepseek-r1:1.5b",
+    "size": 1117322768,
+    "modified_at": "2026-11-15T14:59:44.6570123+06:00",
+    "family": "qwen2"
+  },
+  {
+    "name": "nomic-embed-text:latest",
+    "model": "nomic-embed-text:latest",
+    "size": 274302450,
+    "modified_at": "2026-11-15T14:57:12.3913933+06:00",
+    "family": "nomic-bert"
+  },
+  {
+    "name": "qwen2.5:1.5b",
+    "model": "qwen2.5:1.5b",
+    "size": 986061892,
+    "modified_at": "2026-11-15T14:56:15.8034184+06:00",
+    "family": "qwen2"
+  },
+  {
+    "name": "llama3.1:8b",
+    "model": "llama3.1:8b",
+    "size": 4920753328,
+    "modified_at": "2026-11-10T11:23:35.142994+06:00",
+    "family": "llama"
+  }
+]
