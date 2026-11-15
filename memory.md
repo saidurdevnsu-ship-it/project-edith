@@ -96,6 +96,10 @@ EDITH orchestrates a specialized agent team:
 7. **Hermes Agent OpenAI-Compatible Integration (`/v1/models` & `/v1/chat/completions`)**:
    * *Problem*: Hermes Agent encountered HTTP 404 when connecting to `http://127.0.0.1:8000/` because `/v1/models` route was missing.
    * *Resolution*: Implemented `api_v1_models` view, registered routes for `/v1/models` and `/v1/chat/completions` (including trailing slash & `/v1/v1/` fallbacks), enabled CORS and SSE streaming. Verified live and working with Hermes Agent.
+8. **GitHub Version Control & Deployment**:
+   * Configured `.gitignore` (safeguarding virtual environment `venv/`, database `db.sqlite3`, secrets `.env`, and caches).
+   * Linked remote `origin` to `https://github.com/saidurdevnsu-ship-it/project-edith.git`.
+   * Successfully pushed initial commit to branch `main`.
 
 ---
 
