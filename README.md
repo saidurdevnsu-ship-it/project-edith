@@ -1,7 +1,7 @@
 # Project EDITH - AI Assistant
 
 A Python Django application designed for both **Desktop** and **Web Browser** usage, directly integrated with your locally running **Llama** model via Ollama.
-
+free tokens for your claude code or hermes agent to integrate edith and njoy the power of multiple local llm models all runing from your local machine , behind a single api key of project edith.
 ---
 
 ## 🚀 Key Features
